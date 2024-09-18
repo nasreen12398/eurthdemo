@@ -1,5 +1,5 @@
 # eurthdemo
 this is my git-hub repository
-creat new
+Creat New
 author-Nasreen
 nazthath
